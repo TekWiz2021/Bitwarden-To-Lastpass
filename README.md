@@ -6,6 +6,7 @@ Overview:
 Easily Convert Bitwarden passwords to LastPass
 Under settings in Bitwarden choose Export Vault and choose .cvs format and save to a location.
 Using A Text Editor make the 3 important changes below... change to url,username,password
+
 Then go to LastPass and go to Account Options\Advanced\Import
 Select Generic CSV and import all your passwords and all your settings will be updated.
 
