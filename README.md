@@ -16,7 +16,7 @@ folder,favorite,type,name,notes,fields,reprompt,login_uri,login_username,login_p
 
 Make The Changes Below And That's It. Changes are on the second line.
 folder,favorite,type,name,notes,fields,reprompt,login_uri,login_username,login_password,login_totp
-folder,favorite,type,name,notes,fields,reprompt,url,username,password,login_totp
+folder,favorite,type,name,notes,fields,reprompt,url,username,password,totp
 
 Now you can import the Bitwarden Vault Exported.csv to LastPass using the Generic CSV selection.
 That's all there is to it.
